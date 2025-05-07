@@ -1,6 +1,7 @@
 ## Hola, mi nombre es Jorge 👋
 
 
+
 ### Full-Stack Developer 🚀
 Estoy en constante formación y actualización en el ámbito del desarrollo de software, explorando nuevas herramientas, tecnologías y buenas prácticas diariamente. He trabajado con diversos sistemas y entornos de desarrollo, incluyendo Linux, GitHub y los principios SOLID de diseño de software. Manejo una variedad de lenguajes de programación, como Python, Java, Rust, Golang, JavaScript y TypeScript.
 En el área de desarrollo web, tengo experiencia tanto en frontend (HTML, CSS, JavaScript, TypeScript, React.js, Angular, Vue.js y Astro) como en backend (Node.js, Django, Python y SQL). Además, utilizo frameworks y herramientas especializadas como Streamlit y WordPress.
@@ -42,10 +43,13 @@ Si tienes preguntas, sugerencias o simplemente quieres charlar sobre desarrollo 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](https://www.linkedin.com/in/jorge-juan-moscoso-chacon/)
 </br>
-[![Personal Email](https://img.shields.io/badge/Personal%20Email-white?style=for-the-badge&logo=gmail&logoColor=white&label=ferrancolllopez%40gmail.com&labelColor=black&color=%23EA4335)](mailto:ferrancolllopez@gmail.com)
+[![Personal Email](https://img.shields.io/badge/Personal%20Email-white?style=for-the-badge&logo=gmail&logoColor=white&label=jorgemoscosochacon%40gmail.com&labelColor=black&color=%23EA4335)](mailto:jorgemoscosochacon@gmail.com)
+
 
 <br>
 
-¡Espero que disfrutes explorando mi repositorio! ¡Gracias por visitarme!  👋
+¡Espero que disfrutes explorando mi repositorio! ¡Gracias por visitarme! 👋
+
+
 
 
