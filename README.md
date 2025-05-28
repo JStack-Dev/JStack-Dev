@@ -45,6 +45,8 @@ Si tienes preguntas, sugerencias o simplemente quieres charlar sobre desarrollo 
 </br>
 [![Personal Email](https://img.shields.io/badge/Personal%20Email-white?style=for-the-badge&logo=gmail&logoColor=white&label=jorgemoscosochacon%40gmail.com&labelColor=black&color=%23EA4335)](mailto:jorgemoscosochacon@gmail.com)
 
+💼 Trabajo Freelance
+Estoy disponible para colaborar en proyectos de desarrollo web y automatización, tanto para particulares como para empresas. Si tienes una idea, necesitas diseñar o mejorar tu sitio web, o quieres integrar soluciones basadas en IA y GPTs personalizados, no dudes en contactarme. ¡Estoy listo para ayudarte a hacer realidad tu proyecto!
 
 <br>
 
