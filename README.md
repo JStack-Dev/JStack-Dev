@@ -22,9 +22,42 @@ En este repositorio, encontraras el código fuente de mi sitio web personal, don
 <br>
 
 ## Technologies Used 🛠️
+<p align="center">
+  <!-- Fila 1: Cloud & DevOps -->
+  <img src="https://skillicons.dev/icons?i=aws" height="40" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" />
+</p>
 
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]() [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]() [![Sass](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=Sass&logoColor=white&labelColor=black&color=%23CC6699)]() [![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=%23F7DF1E)]() [![SQL](https://img.shields.io/badge/my%20sql-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1)]() [![EVM](https://img.shields.io/badge/EVM-white?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=black&color=%233C3C3D)]() [![Solidity](https://img.shields.io/badge/Solidity-white?style=for-the-badge&logo=solidity&logoColor=white&labelColor=black&color=%23363636)]()[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<p align="center">
+  <!-- Fila 2: Control de versiones + Frontend -->
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" />
+</p>
 
+<p align="center">
+  <!-- Fila 3: Frontend frameworks -->
+  <img src="https://skillicons.dev/icons?i=vue" height="40" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" />
+</p>
+
+<p align="center">
+  <!-- Fila 4: Bases de datos -->
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
+</p>
 
 
 - Web Development: HTML, CSS, JavaScript
@@ -48,6 +81,7 @@ Si tienes preguntas, sugerencias o simplemente quieres charlar sobre desarrollo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](https://www.linkedin.com/in/jorge-juan-moscoso-chacon/)
 </br>
 [![Personal Email](https://img.shields.io/badge/Personal%20Email-white?style=for-the-badge&logo=gmail&logoColor=white&label=jorgemoscosochacon%40gmail.com&labelColor=black&color=%23EA4335)](mailto:jorgemoscosochacon@gmail.com)
+
 
 💼 Trabajo Freelance
 Estoy disponible para colaborar en proyectos de desarrollo web y automatización, tanto para particulares como para empresas. Si tienes una idea, necesitas diseñar o mejorar tu sitio web, o quieres integrar soluciones basadas en IA y GPTs personalizados, no dudes en contactarme. ¡Estoy listo para ayudarte a hacer realidad tu proyecto!
